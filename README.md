@@ -7,7 +7,7 @@ This code was made public to share our research for the benefit of the scientifi
 
 ## Cryptocurrency line plot
 
-![](Images/Training and test data.png)
+![](Images/Trainingandtestdata.png)
 
 ## Actual vs predicted prices
 
