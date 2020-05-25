@@ -1,7 +1,7 @@
 # cryptocurrency price prediction
  Cryptocurrency Price Prediction Using LSTM neural network
 
-## IMPORTANT
+## Important
 
 This code was made public to share our research for the benefit of the scientific community. Do NOT use it for immoral purposes.
 
@@ -9,7 +9,7 @@ This code was made public to share our research for the benefit of the scientifi
 
 ![](Images/Trainingandtestdata.png)
 
-## Actual vs predicted prices
+## Actual vs Predicted prices
 
 ![](Images/predicted.png)
 
